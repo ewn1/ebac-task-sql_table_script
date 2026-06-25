@@ -1,6 +1,7 @@
 /*******************************************************************************
   DATABASE MANIPULATION SCRIPT (DML) - THE MIDDLE-EARTH EDITION
   Course: EBAC Back-End Python
+  Module: Introducao ao SQL
   Author: Edwin
   Description: Data insertion and manipulation
 *******************************************************************************/
